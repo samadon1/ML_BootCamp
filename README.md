@@ -27,7 +27,7 @@ https://colab.research.google.com/drive/1HjL1aSb5AV7lIZmLifTw6myNX3Gz-UBX?usp=sh
 
 ## Books/ Sites
 <a href = "https://www.oreilly.com/library/view/deep-learning-with/9781617294433/" >Deep learning with Python</a> : By the creator of Keras <br>
-<a href = "https://d2l.ai/" >https://d2l.ai/</a>
+<a href="https://d2l.ai/" > Dive into Deep Learning</a>: Written by engineers from companies like Google and Amazon <br>
 <a href="https://huggingface.co/learn" >HuggingFace Courses</a>
 
 ## Courses - Video
