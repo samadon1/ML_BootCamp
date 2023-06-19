@@ -20,4 +20,16 @@ https://colab.research.google.com/drive/1l-eZoOI9FnZuM8A_g8T4caHbdD6yRs9G?usp=sh
 Lab 4 <br>
 https://colab.research.google.com/drive/1HjL1aSb5AV7lIZmLifTw6myNX3Gz-UBX?usp=sharing
 
-# Day 2 <br>
+##  Other resources
+<br>
+<a href = "https://developers.google.com/mediapipe/solutions">Mediapipe</a>: Low-code/No-code machineLearning <br>
+<a href = "https://keras.io/">Keras</a>: Keras Documentation
+
+## Books/ Sites
+<a href = "https://www.oreilly.com/library/view/deep-learning-with/9781617294433/" >Deep learning with Python</a> : By the creator of Keras <br>
+<a href = "https://d2l.ai/" >https://d2l.ai/</a>
+<a href="https://huggingface.co/learn" >HuggingFace Courses</a>
+
+## Courses - Video
+<a href = "http://introtodeeplearning.com/" >MIT Introduction to Deep Learning</a> <br>
+<a href = "https://www.coursera.org/professional-certificates/tensorflow-in-practice" >Deep Learning Specialization on Coursera</a>
